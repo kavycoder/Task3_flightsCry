@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlightsCry</string>
+    <string name="flight_code">flight code :552AS3</string>
+    <string name="FLIGHTS_CRY">Flights Cry</string>
+    <string name="flight_itinerary">Welcome to flight itenerary</string>
+    <string name="time_departure">Depature Details</string>
+    <string name="airport_code">Airport code 111</string>
+    <string name="Departure_time">Depature time :8:45pm</string>
+    <string name="Airport_code">Airport code:542</string>
+    <string name="Atime_card">Arrival time:12:00am</string>
+    <string name="Arival_card">Arrival details</string>
+</resources>
